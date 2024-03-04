@@ -11,4 +11,4 @@ time that is looked forward the possibility to overcome his results with the alg
 As Grant pretends, the ultimate purpose relies in finding a list of words that serve as
 an opening strategy for the human player.
 
-__Authors__: Jerónimo Osorio Muñoz
+__Authors__: Jerónimo Osorio Muñoz, Alfonso Fierro López, Valentina Ortega Vargas, Sofía Castaño Pulgarín
